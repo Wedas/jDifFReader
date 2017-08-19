@@ -1,3 +1,6 @@
+/**
+ * @author <a href="mailto:vapenn@ya.ru">Vape in NN</a> 
+ */
 package main;
 
 import java.awt.image.BufferedImage;
